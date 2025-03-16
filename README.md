@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/sehyeogi365"/>
   </a>
