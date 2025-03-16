@@ -61,6 +61,8 @@ Here are some ideas to get you started:
 </div>
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{sehyeogi365}"/>
-</a>
+<div style="text-align: center;">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/sehyeogi365"/>
+  </a>
+</div>
